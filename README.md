@@ -1,5 +1,5 @@
 # RestaurantFinder
-This application can be used to know the top restaurants and cuisines availale at any location user wants to know.
+This application can be used to know the top restaurants and cuisines available at any location user wants to know.
 Note: As am using Zomato api to retrieve data,this app will be able to show only restaurants from places where zomato provides their services.😃
 
 how to use:-
